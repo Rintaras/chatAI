@@ -1,0 +1,2 @@
+transformers
+torch  # または tensorflow（利用するフレームワークに応じて）
